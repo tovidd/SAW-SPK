@@ -32,6 +32,6 @@ post:
 
 ![STEP 1](https://github.com/tovidd/SAW-SPK/blob/master/example/01-run-server.png)
 
-![STEP 2](https://github.com/tovidd/SAW-SPK/master/02-set-header?raw=true)
+![STEP 2](https://github.com/tovidd/SAW-SPK/blob/master/example/02-set-header.png)
 
-![STEP 3](https://github.com/tovidd/SAW-SPK/master/03-set-body-and-post-request?raw=true)
+![STEP 3](https://github.com/tovidd/SAW-SPK/blob/master/example/03-set-body-and-post-request.png)
