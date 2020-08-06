@@ -30,7 +30,7 @@ post:
 
 ##### EXAMPLE
 
-![STEP 1](https://github.com/tovidd/SAW-SPK/master/01-run-server.png?raw=true)
+![STEP 1](https://github.com/tovidd/SAW-SPK/blob/master/example/01-run-server.png)
 
 ![STEP 2](https://github.com/tovidd/SAW-SPK/master/02-set-header?raw=true)
 
