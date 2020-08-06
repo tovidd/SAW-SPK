@@ -37,3 +37,6 @@ post:
 ![STEP 2](https://github.com/tovidd/SAW-SPK/blob/master/example/02-set-header.png)
 
 ![STEP 3](https://github.com/tovidd/SAW-SPK/blob/master/example/03-set-body-and-post-request.png)
+
+
+<a href="https://medium.com/skyshidigital/sistem-pengambilan-keputusan-dengan-algoritma-saw-simple-additive-weighting-524a43ef316">sauce</a>
