@@ -15,12 +15,14 @@ run:
 ```
 node app.js
 ```
-<br>
+
+
 open postman: 
 ```
 localhost:7777/getRecomendation
 ```
-<br>
+
+
 post: 
 ```
 [{kadaluarsa, harga, jenis, stok, penjualan}]
