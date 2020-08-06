@@ -1,4 +1,5 @@
 # sistem pengambilan keputusan
+### Decision Support System - Simple Additive Weighting
 
 sistem pengambilan keputusan dalam menentukan letak produk di depan atau dibelakang
 produk diletakkan paling belakang jika memiliki value paling kecil (paling laris)
